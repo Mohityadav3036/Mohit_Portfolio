@@ -26,7 +26,7 @@ const App = () => {
        {/* For Star in the bg */}
        <div className='relative z-0'>
           <Contact/>
-          {/* <StarsCanvas/> */}
+          <StarsCanvas/>
        </div>
        <div className=''>
         <Footer/>
