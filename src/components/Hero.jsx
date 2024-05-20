@@ -124,6 +124,8 @@ const Hero = () => {
                 <img src={hoverlogo} alt="" className="shadow-2xl rounded-lg shadow-white hidden group-hover:block" />
           </div>
 
+      
+
         </div>
 
     </section>

@@ -265,7 +265,7 @@ import {
       ],
       image: project2,
       source_code_link: "https://github.com/Mohityadav3036/password_generator",
-      live_link: "https://password-generator-crda4ucza-mohit-yadavs-projects-67ccde27.vercel.app/"
+      live_link: "https://password-generator-smoky-pi.vercel.app/"
     },
     {
       name: "3D PortFolio",
@@ -287,7 +287,7 @@ import {
       ],
       image: project3,
       source_code_link: "https://github.com/",
-      live_link: "https://www.linkedin.com/in/mohit-yadav-33811024a/"
+      live_link: "https://mohit-portfolio-alpha.vercel.app/"
     },
   ];
   
