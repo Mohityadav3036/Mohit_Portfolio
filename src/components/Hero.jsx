@@ -82,7 +82,7 @@ const Hero = () => {
                 to="www.twitter.com"
               > 
 
-                <BsTwitter className="  mr-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mr-0 -md:my-[1px]" />
+                <BsTwitter className="  mr-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 md:mr-0 -md:my-[1px]" />
               </Link>
 
               <Link target="_blank" to="https://github.com/Mohityadav3036">
