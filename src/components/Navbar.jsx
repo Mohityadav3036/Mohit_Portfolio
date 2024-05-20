@@ -26,7 +26,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="w-[100px] h-[80px] object-contain" />
           <p className="text-white text-[25px] font-bold cursor-pointer flex items-center">
-            Mohit<span className="sm:block hidden"> &nbsp; Yada</span>
+            Mohit<span className="sm:block hidden"> &nbsp; <Yadav></Yadav></span>
           </p>
         </Link>
       
