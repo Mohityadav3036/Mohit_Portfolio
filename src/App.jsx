@@ -10,8 +10,9 @@ const App = () => {
     
         {/* for navibar */}
        <div className='bg-cover bg-no-repeat bg-center'>
-       <StarsCanvas />
+       {/* <StarsCanvas /> */}
         <Navbar/>
+         
         <Hero/>
        
        </div>
@@ -25,7 +26,7 @@ const App = () => {
        {/* For Star in the bg */}
        <div className='relative z-0'>
           <Contact/>
-          <StarsCanvas/>
+          {/* <StarsCanvas/> */}
        </div>
        <div className=''>
         <Footer/>
