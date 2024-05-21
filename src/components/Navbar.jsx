@@ -22,9 +22,10 @@ const Navbar = () => {
           onClick={() => {
             setActive("");
             window.scrollTo(0, 0);
+            
           }}
         >
-          <img src={logo} alt="logo" className="w-[100px] h-[80px] object-contain" />
+          <img src={logo} fetchPriority="high" alt="logo" className="w-[100px] h-[80px] object-contain" />
           <p className="text-white text-[25px] font-bold cursor-pointer flex items-center">
             Mohit<span className="sm:block hidden"> &nbsp; Yadav</span>
           </p>
