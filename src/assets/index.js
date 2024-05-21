@@ -70,5 +70,5 @@ export {
   project2,
   project3,
   codehelp,
-  chaiaurcode
+  chaiaurcode,
 };
