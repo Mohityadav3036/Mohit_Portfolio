@@ -49,10 +49,10 @@ import {
       title: "DSA Problem Solver",
       icon: backend,
     },
-    {
-      title: "React Native Developer",
-      icon: mobile,
-    },
+    // {
+    //   title: "React Native Developer",
+    //   icon: mobile,
+    // },
     
     {
       title: "Graphic Designer",
@@ -158,19 +158,19 @@ import {
         "Familiarity with advanced topics including string manipulation, backtracking, bit manipulation, and greedy algorithms.",
       ],
     },
-    {
-      title: "React Native Developer",
-      company_name: "Chai aur Code",
-      icon: chaiaurcode,
-      iconBg: "#E6DEDD",
-      date: "April 2024 - July 2024",
-      points: [
-        "Developing and maintaining mobile applications using React Native and related technologies..",
-        "Writing efficient, scalable, and reusable code following best practices for mobile development..",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Integrating mobile applications with back-end services and APIs.",
-      ],
-    },
+    // {
+    //   title: "React Native Developer",
+    //   company_name: "Chai aur Code",
+    //   icon: chaiaurcode,
+    //   iconBg: "#E6DEDD",
+    //   date: "April 2024 - July 2024",
+    //   points: [
+    //     "Developing and maintaining mobile applications using React Native and related technologies..",
+    //     "Writing efficient, scalable, and reusable code following best practices for mobile development..",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Integrating mobile applications with back-end services and APIs.",
+    //   ],
+    // },
     // {
     //   title: "Full stack Developer",
     //   company_name: "Meta",
