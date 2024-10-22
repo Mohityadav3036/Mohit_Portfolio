@@ -29,6 +29,11 @@ import tripguide from "./tripguide.png";
 import project1 from './project1.png';
 import project2 from './project2.png';
 import project3 from './project3.png';
+import secureself from './secureself.png';
+import rajtenthouse from './rajtenthouse.png';
+
+import astute from './astute.png'
+
 
 
 export {
@@ -57,6 +62,9 @@ export {
   project1,
   project2,
   project3,
+  secureself,
+  rajtenthouse,
+  astute,
   codehelp,
   chaiaurcode,
 };

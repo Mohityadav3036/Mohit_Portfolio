@@ -17,7 +17,10 @@ import {
     project1,
     project2,
     project3,
+    secureself,
+    rajtenthouse,
     codehelp,
+    astute,
     chaiaurcode,
   } from "../assets";
   
@@ -132,6 +135,19 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Full Stack Developer Intern",
+      company_name: "Astute Lex Servicado",
+      icon: astute,
+      iconBg: "#383E56",
+      date: "September 2024 - Present",
+      points: [
+        "Collaborated in building dynamic, full-stack solutions, integrating APIs and managing state efficiently with React hooks, which improved application performance by 25%. Utilized Next.js API routes, leading to a 10% increase in user satisfaction through seamless interactions.",
+        "Built and maintained scalable, reusable UI components leveraging React and Next.js, reducing development time by 20% and improving cross-browser compatibility and responsive design, increasing user engagement by 15%.",
+        "Developed and optimized high-performance web applications using Next.js, improving load times by up to 40% with server-side rendering (SSR) and static site generation (SSG), which also boosted SEO rankings by 30%.",
+      ],
+    },
+    
     {
       title: "MERN Stack Developer",
       company_name: "CodeHelp",
@@ -277,8 +293,52 @@ import {
         },
       ],
       image: project3,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Mohityadav3036/Mohit_Portfolio",
       live_link: "https://mohit-portfolio-alpha.vercel.app/"
+    },
+    {
+      name: "Secure Self",
+      description:
+        "Our document upload website allows users to easily and securely upload, manage, and share their documents. With a user-friendly interface and robust features, it ensures seamless file handling and organization.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Emailjs",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: secureself,
+      source_code_link: "https://github.com/Mohityadav3036/secureself_frontend",
+      live_link: "https://secureself-frontend-8xbs.vercel.app/"
+    },
+    {
+      name: "Raj Tent House ",
+      description:
+        "I built the Raj Tent House website as a freelancing project, focusing on showcasing wedding event services. The site features an elegant design with responsive layouts, highlighting event spaces, decor, and vendors.",
+      tags: [
+        {
+          name: "Nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Emailjs",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: rajtenthouse,
+      source_code_link: "https://github.com/Mohityadav3036/website_raj_tent_house",
+      live_link: "https://website-raj-tent-house.vercel.app/"
     },
   ];
   
