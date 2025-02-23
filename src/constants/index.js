@@ -22,6 +22,8 @@ import {
     codehelp,
     astute,
     chaiaurcode,
+    websphere,
+
   } from "../assets";
   
   export const navLinks = [
@@ -253,6 +255,47 @@ import {
       live_link: "https://studynotion-ed-tech-plateform.vercel.app/"
     },
     {
+      name: "WedSphere",
+      description:
+        "WedSphere is a comprehensive wedding planning platform that brings everything you need under one roof. With an intuitive interface , it helps you plan your perfect wedding easily, anytime, anywhere.",
+      tags: [
+        {
+          name: "MERN Stack",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Payment Gateway",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: websphere,
+      source_code_link: "https://github.com/Mohityadav3036/Websphere/",
+      live_link: "https://websphere-blush.vercel.app/"
+    },
+    {
+      name: "Secure Self",
+      description:
+        "Our document upload website allows users to easily and securely upload, manage, and share their documents. With a user-friendly interface and robust features, it ensures seamless file handling and organization.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Emailjs",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: secureself,
+      source_code_link: "https://github.com/Mohityadav3036/secureself_frontend",
+      live_link: "https://secureself-frontend-8xbs.vercel.app/"
+    },
+    {
       name: "Password Generator",
       description:
         "Our password generator creates strong, secure passwords with customizable length and complexity. Protect your accounts with randomly generated, highly secure passwords to ensure maximum safety.",
@@ -295,28 +338,6 @@ import {
       image: project3,
       source_code_link: "https://github.com/Mohityadav3036/Mohit_Portfolio",
       live_link: "https://mohit-portfolio-alpha.vercel.app/"
-    },
-    {
-      name: "Secure Self",
-      description:
-        "Our document upload website allows users to easily and securely upload, manage, and share their documents. With a user-friendly interface and robust features, it ensures seamless file handling and organization.",
-      tags: [
-        {
-          name: "React",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Node",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Emailjs",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: secureself,
-      source_code_link: "https://github.com/Mohityadav3036/secureself_frontend",
-      live_link: "https://secureself-frontend-8xbs.vercel.app/"
     },
     {
       name: "Raj Tent House ",

@@ -33,7 +33,7 @@ import secureself from './secureself.png';
 import rajtenthouse from './rajtenthouse.png';
 
 import astute from './astute.png'
-
+import  websphere from './websphere.png'
 
 
 export {
@@ -67,4 +67,5 @@ export {
   astute,
   codehelp,
   chaiaurcode,
+  websphere,
 };
