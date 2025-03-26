@@ -13,8 +13,7 @@ This is my personal portfolio website, showcasing my technical skills, projects,
 
 ## Technologies Used
 - **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js (if applicable)
-- **Deployment:** Vercel / Netlify
+- **Deployment:** Vercel
 
 ## Installation & Setup
 To run this portfolio website locally, follow these steps:
@@ -38,10 +37,11 @@ To run this portfolio website locally, follow these steps:
    ```
 
 ## Preview
-![Portfolio Screenshot](./portfolio_redm1.png)
+![Portfolio Screenshot](![portfolio redm1](https://github.com/user-attachments/assets/01a67bbf-edc8-4457-961b-4c60c9ac016a)
+)
 
 ## Deployment
-The website is hosted online and can be accessed at: [Your Portfolio Link](https://your-portfolio-link.com)
+The website is hosted online and can be accessed at: [Your Portfolio Link](https://mohit-portfolio-alpha.vercel.app/)
 
 ## Contact
 - **Email:** mohit303600@gmail.com  
