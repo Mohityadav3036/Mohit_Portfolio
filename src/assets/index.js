@@ -34,6 +34,7 @@ import rajtenthouse from './rajtenthouse.png';
 
 import astute from './astute.png'
 import  websphere from './websphere.png'
+import webprompt from '../assets/company/webprompt.png'
 
 
 export {
@@ -68,4 +69,5 @@ export {
   codehelp,
   chaiaurcode,
   websphere,
+  webprompt,
 };

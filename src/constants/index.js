@@ -23,6 +23,7 @@ import {
     astute,
     chaiaurcode,
     websphere,
+    webprompt
 
   } from "../assets";
   
@@ -272,6 +273,28 @@ import {
       image: websphere,
       source_code_link: "https://github.com/Mohityadav3036/Websphere/",
       live_link: "https://websphere-blush.vercel.app/"
+    },
+    {
+      name: "WebPrompt",
+      description:
+       "WebPrompt is used to generate a live website instantly based on user input. With an intuitive interface and powerful features, it ensures seamless, dynamic website creation, customization, and deployment.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node",
+          color: "green-text-gradient",
+        },
+        {
+          name: "GenAi",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: webprompt,
+      source_code_link: "https://github.com/Mohityadav3036/WebPrompt",
+      live_link: "https://webprompt-xi.vercel.app/"
     },
     {
       name: "Secure Self",
